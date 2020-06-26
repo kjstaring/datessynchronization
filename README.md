@@ -20,4 +20,7 @@ pip3 install xlrd
 
 Folders
 - data contains BGT test data and the excel file LookUpTable. The DTB data must be added manually as PIVRI.gdb. 
-
+- styles contains styles for GIS
+- shapefiles contains temporary and final results
+- mapping contains script to do data mapping
+- comparison contains scrip to do attribute and date comparisons 
